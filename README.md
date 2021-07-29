@@ -1,3 +1,5 @@
+## Leticia Sales (Tish)
+
 <div> 
   <a href="https://twitter.com/tishcode" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
@@ -12,5 +14,8 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=whit" target="_blank">
   </a>
 </div>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leticiasales&show_icons=true&theme=omni)
+<br />
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiasales&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasales&layout=compact&langs_count=7&theme=omni"/>
+</div>
