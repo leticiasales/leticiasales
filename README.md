@@ -1,6 +1,6 @@
 ## Leticia Sales (Tish)
 
-##### Computer Sciente Undergradute Bachelor Student @ Federal University of Paraná<br/><small>(Thus the C Programming...)</small>
+##### Computer Sciente Undergraduate Bachelor Student @ Federal University of Paraná<br/>(Thus the C Programming...)</small>
 
 <div> 
   <a href="https://twitter.com/tishcode" target="_blank">
@@ -18,6 +18,6 @@
 </div>
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiasales&show_icons=true&theme=omni&include_all_commits=true&count_private=true&border_radius=0&border_color=#FFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasales&layout=compact&langs_count=7&theme=omni&border_radius=0&border_color=E1E1E6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leticiasales&show_icons=true&theme=omni&include_all_commits=true&count_private=true&border_radius=0"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leticiasales&layout=compact&langs_count=7&theme=omni&border_radius=0"/>
 </div>
