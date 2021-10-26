@@ -1,6 +1,6 @@
 ## Leticia Sales (Tish)
 
-##### Computer Sciente Undergraduate Bachelor Student @ Federal University of Paraná<br/>(Thus the C Programming...)</small>
+##### Computer Sciente Bachelor Student @ Federal University of Paraná<br/>(Thus the C Programming...)</small>
 
 <div> 
   <a href="https://twitter.com/tishcode" target="_blank">
