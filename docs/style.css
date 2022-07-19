@@ -1,12 +1,12 @@
 @font-face {
   font-family: GlacialIndifference;
-  src: url("GlacialIndifference-Bold.otf");
+  src: url("./GlacialIndifference-Bold.otf");
   font-weight: bold;
 }
 
 @font-face {
   font-family: GlacialIndifference;
-  src: url("GlacialIndifference.otf");
+  src: url("./GlacialIndifference-Regular.otf");
   font-weight: normal;
 }
 
@@ -17,4 +17,8 @@ main {
 header h1 {
   font-size: 70px;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
+}
+
+.bg-instagram {
+  background: linear-gradient(45deg,#405de6,#5851db,#833ab4,#c13584,#e1306c,#fd1d1d)
 }
