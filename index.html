@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html class="h-full bg-white">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tish Sales</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <script>
+    tailwind.config = {
+      theme: {
+        extend: {
+          colors: {
+            primary: "#ffc8dd",
+            "soundcloud-from": "#ff8800",
+            "soundcloud-to": "#ff3300",
+            twitter: "#1da1f2",
+            github: "#333"
+          },
+          fontFamily: {
+            sans: ["GlacialIndifference", "sans-serif"],
+            serif: ["GlacialIndifference", "serif"],
+          },
+        }
+      }
+    }
+  </script>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="h-full">
+  <main class="min-h-full bg-cover flex flex-col items-center justify-center">
+    <header class="py-4 text-center">
+      <h1 class="text-primary tracking-widest font-bold">TISH</h1>
+    </header>
+    <nav class="grid gap-4 grid-cols-1">
+      <a class="bg-twitter text-white text-center sm:px-24 min-w-full py-2 text-lg rounded" href="https://twitter.com/tishcode" target="_blank" rel="me noopener noreferrer">
+        <span class="mr-1">
+          <span class="relative inline-block align-text-middle icon">
+            <img class="h-4 w-4" src="./twitter.svg" >
+          </span>
+        </span>
+        twitter
+      </a>
+      <a class="bg-gradient-to-r from-soundcloud-from to-soundcloud-to text-white text-center sm:px-24 min-w-full py-2 text-lg rounded" href="https://soundcloud.com/tishsales" target="_blank" rel="me noopener noreferrer">
+        <span class="mr-1">
+          <span class="relative inline-block align-text-middle icon">
+            <img class="h-4 w-4" src="./soundcloud.svg">
+          </span>
+        </span>
+        soundcloud
+      </a>
+      <a class="bg-github text-white text-center sm:px-24 min-w-full py-2 mb-3 text-lg rounded text-center" href="http://github.com/leticiasales">
+        <span class="mr-1">
+          <span class="relative inline-block align-text-bottom icon">
+            <img class="h-4 w-4" src="./github.svg" >
+          </span>
+        </span>
+        github
+      </a>
+    </nav>
+  </main>
+</body>
+</html>
