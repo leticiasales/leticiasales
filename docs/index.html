@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>DJ TISH</title>
+    <link rel="icon" type="image/x-icon" href="./assets/favicon.ico" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
@@ -180,10 +181,10 @@
       }
 
       .card-logo img {
-        max-width: 140px;
         width: 100%;
         height: auto;
         display: block;
+        object-fit: contain;
       }
 
       .card-title {
@@ -659,7 +660,7 @@
           <!-- Row 2: logo + media kit + tall image -->
           <div class="card card-logo">
             <img
-              src="https://storage.googleapis.com/creatorspace-public/users%2Fcltnmd9z402kdp901g7yvzj5f%2F7rbRxvsSVXuHuDXr-Logo%2520Tish_Rosa.png"
+              src="./assets/logo.png"
               alt="TISH logo"
             />
           </div>
@@ -674,7 +675,7 @@
             <div class="card-media-kit-inner">
               <!-- Replace media-kit.mp4 with your actual video filename in ./assets -->
               <video
-                src="./assets/media-kit.mp4"
+                src="./assets/media-kit-compressed.mp4"
                 autoplay
                 muted
                 loop
