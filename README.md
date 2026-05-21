@@ -1,7 +1,7 @@
 ## Leticia Sales (Tish)
 
 ##### Computer Sciente Bachelor Student @ Federal University of Paraná<br/>(Thus the C Programming...)</small>
-
+### Full Stack Software Developer since 2015
 <div> 
   <a href="https://twitter.com/tishcode" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
