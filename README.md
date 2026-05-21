@@ -58,8 +58,8 @@ Full Stack Developer with 10+ years of experience, currently focused on building
      → add a PAT_1 env var with a GitHub personal access token → replace YOUR_VERCEL_URL below. -->
  
 <div align="center">
-  <img height="160em" src="https://github-readme-stats-letisales.vercel.app/api?username=leticiasales&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
-  <img height="160em" src="https://github-readme-stats-letisales.vercel.app/api/top-langs/?username=leticiasales&layout=compact&langs_count=7&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa"/>
+  <img height="160em" src="https://github-readme-stats-omega-six-74.vercel.app/api?username=leticiasales&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff"/>
+  <img height="160em" src="https://github-readme-stats-omega-six-74.vercel.app/api/top-langs/?username=leticiasales&layout=compact&langs_count=7&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=aaaaaa"/>
 </div>
 
 ---
