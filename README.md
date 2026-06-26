@@ -3,7 +3,7 @@
 
 # Leticia Sales
 
-**Full Stack Developer** · Rails & React · CS Student @ UFPR · Building since 2015
+**Full Stack Developer** · Rails & React · Computer Scientist · Building since 2015
 
 [![Twitter](https://img.shields.io/badge/Twitter-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/tishcode)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leticia-s-28229b88/)
